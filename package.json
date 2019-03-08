@@ -1,0 +1,16 @@
+{
+  "name": "here11",
+  "version": "0.0.13",
+  "description": "a node static assets server",
+  "bin": {
+    "here": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "node bin/index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "gw666",
+  "license": "ISC"
+}
